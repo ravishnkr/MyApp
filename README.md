@@ -1,4 +1,0 @@
-MyApp
-=====
-
-My Chrome App
